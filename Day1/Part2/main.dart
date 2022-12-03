@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:async';
 
 List<String> input = new List.empty(growable: true);
 List<int> elves = new List.empty(growable: true);
