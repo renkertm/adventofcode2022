@@ -1,4 +1,4 @@
-# adventofcode2022
+# Advent of Code 2022
 
 Solving [aoc](https://www.adventofcode.com/) with a new language each day
 
