@@ -8,8 +8,8 @@ def main()
     $charIndex = []
 
     c = 0
-    stacksStr[stacksStr.length-2].sub("\n", "").split("").each{ |char|
-        if char.match(/[A-Z]/)
+    stacksStr[stacksStr.length-1].sub("\n", "").split("").each{ |char|
+        if char.match(/[1-9]/)
             $charIndex.push(c)
         end
         c += 1
