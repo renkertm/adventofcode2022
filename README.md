@@ -11,3 +11,4 @@ Solving [aoc](https://www.adventofcode.com/) with a new language each day
 | Day 3 | Perl | 8123  |  2620  |
 | Day 4 | Rust |  515  |  883   |
 | Day 5 | Ruby | RTGWZTHLD | STHGRZZFR |
+| Day 6 | Lua  | 1723  |  3708  |
